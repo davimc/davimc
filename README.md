@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davimc
-- 👀 I’m interested in be a fullstack developer
-- 🌱 I’m currently learning javascript and some of its many frameworks and, whenever possible, more about java and devops
-- 💞️ I’m looking to collaborate on my knowledge and enter the front end
+- 👀 I’m interested in be a back-end java developer
+- 🌱 I’m currently learning java with framework spring and, whenever possible, devops
+- 💞️ I’m looking to collaborate on my knowledge and enter the back-end
 - 📫 How to reach me: davimatosc@hotmail.com and +55 (98) 98412-1438
 
 <!---
