@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davimc
-- 👀 I’m interested in be a back-end java developer
+- 👀 I’m interested in be a backend java developer
 - 🌱 I’m currently learning java with framework spring and, whenever possible, devops
-- 💞️ I’m looking to collaborate on my knowledge and enter the back-end
+- 💞️ I’m looking to collaborate on my knowledge and enter the backend
 - 📫 How to reach me: davimatosc@hotmail.com and +55 (98) 98412-1438
 
 <!---
